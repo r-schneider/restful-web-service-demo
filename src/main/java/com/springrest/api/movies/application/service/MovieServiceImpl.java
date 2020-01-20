@@ -1,6 +1,6 @@
 package com.springrest.api.movies.application.service;
 
-import com.springrest.api.movies.application.repository.MovieRepository;
+import com.springrest.api.movies.domain.repository.MovieRepository;
 import com.springrest.api.movies.domain.Movie;
 
 import org.springframework.stereotype.Service;

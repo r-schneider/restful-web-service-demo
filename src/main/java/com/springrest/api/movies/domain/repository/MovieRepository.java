@@ -1,4 +1,4 @@
-package com.springrest.api.movies.application.repository;
+package com.springrest.api.movies.domain.repository;
 
 import java.util.Arrays;
 import java.util.HashMap;
