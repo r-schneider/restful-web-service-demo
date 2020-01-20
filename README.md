@@ -1,2 +1,2 @@
 # restful-web-service-demo
-RESTful web service example.
+RESTful web service example
